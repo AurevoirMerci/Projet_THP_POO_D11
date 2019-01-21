@@ -17,3 +17,6 @@ puts "Voici l'email du premier attendee de l'événement : #{e.attendees.first.e
 
 # Open bar pour tester ton application. Tous les fichiers importants sont chargés
 # Tu peux faire User.new, Event.new, binding.pry, User.all, etc etc
+
+
+

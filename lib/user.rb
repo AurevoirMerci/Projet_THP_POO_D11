@@ -13,6 +13,10 @@ class User
       return @@user_count
     end
 
+    def self.find_by_email(email)
+    	
+    end
+
 end
 
-binding.pry
+#binding.pry
